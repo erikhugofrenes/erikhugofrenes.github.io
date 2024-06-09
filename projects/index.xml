@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Who am I?</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://erikhugofrenes.com/projects/</link>
     <description>Recent content in Projects on Who am I?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 04 Apr 2024 12:34:26 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://erikhugofrenes.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ludum Dare 55</title>
-      <link>http://localhost:1313/projects/ludum_dare55/</link>
+      <link>https://erikhugofrenes.com/projects/ludum_dare55/</link>
       <pubDate>Thu, 04 Apr 2024 12:34:26 -0400</pubDate>
-      <guid>http://localhost:1313/projects/ludum_dare55/</guid>
+      <guid>https://erikhugofrenes.com/projects/ludum_dare55/</guid>
       <description>During the latter half of my second semester in college, I joined and participated in the world&amp;rsquo;s largest and longest-running &amp;ldquo;Game-Jam&amp;rdquo; - Ludum Dare. In this online competition, thousands of enthusiastic developers rush to complete a game within a limited time bracket of up to 48 hours (Compo) and 72 hours (Jam).&#xA;I participated in the Compo for a shortened period over the weekend, but never the less landed 277th place overall of 1582 ranked entries</description>
     </item>
     <item>
       <title>Matrix Command Effect</title>
-      <link>http://localhost:1313/projects/matrix_command_effect/</link>
+      <link>https://erikhugofrenes.com/projects/matrix_command_effect/</link>
       <pubDate>Thu, 04 Apr 2024 12:34:26 -0400</pubDate>
-      <guid>http://localhost:1313/projects/matrix_command_effect/</guid>
+      <guid>https://erikhugofrenes.com/projects/matrix_command_effect/</guid>
       <description>I created a program that visualized a version of the falling characters effect from the Matrix Movies for a background effect and to generate CMD command outputs.&#xA;Program Release Available on Github https://github.com/erikhugofrenes/Matrix-Command-Effect&#xA;Video Demonstration and Tutorial https://www.youtube.com/watch?v=yhf1i6HHOAg</description>
     </item>
   </channel>
