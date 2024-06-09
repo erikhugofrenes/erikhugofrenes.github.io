@@ -2,39 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Who am I?</title>
-    <link>https://erikhugofrenes.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Who am I?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 04 Apr 2024 12:34:26 -0400</lastBuildDate>
-    <atom:link href="https://erikhugofrenes.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Education</title>
-      <link>https://erikhugofrenes.com/posts/my_education/</link>
+      <link>http://localhost:1313/posts/my_education/</link>
       <pubDate>Thu, 04 Apr 2024 12:34:26 -0400</pubDate>
-      <guid>https://erikhugofrenes.com/posts/my_education/</guid>
+      <guid>http://localhost:1313/posts/my_education/</guid>
       <description>Pre college accolades&#xA;AP Exams I scored a 5 on before college&#xA;- AP Computer Science A - AP Calculus AB - AP Calculus BC - AP German German Language Awards&#xA;- 2019: National German Exam level 2 (ATG) Gold Presidential Honor Roll - 2020: National German Exam level 3 (ATG) Gold Presidential Honor Roll - 2021: German DSD-2 written test: first part: top score Deutsches Sprachdiplom - 2022: National German Exam level 4 (ATG) Gold Diploma - 2022: German DSD-2 spoken test second part: top score Deutsches Sprachdiplom Certifications</description>
     </item>
     <item>
       <title>Ludum Dare 55</title>
-      <link>https://erikhugofrenes.com/projects/ludum_dare55/</link>
+      <link>http://localhost:1313/projects/ludum_dare55/</link>
       <pubDate>Thu, 04 Apr 2024 12:34:26 -0400</pubDate>
-      <guid>https://erikhugofrenes.com/projects/ludum_dare55/</guid>
-      <description>During the latter half of my second semester in college, I joined and participated in the world&amp;rsquo;s largest and longest-running &amp;ldquo;Game-Jam&amp;rdquo; - Ludum Dare. In this online competition, thousands of enthusiastic developers rush to complete a game within a limited time bracket of up to 48 hours (Compo) and 72 hours (Jam).&#xA;Check out the Game&#xA;https://inidal-dev.itch.io/wands-way-ldjam-55</description>
+      <guid>http://localhost:1313/projects/ludum_dare55/</guid>
+      <description>During the latter half of my second semester in college, I joined and participated in the world&amp;rsquo;s largest and longest-running &amp;ldquo;Game-Jam&amp;rdquo; - Ludum Dare. In this online competition, thousands of enthusiastic developers rush to complete a game within a limited time bracket of up to 48 hours (Compo) and 72 hours (Jam).&#xA;I participated in the Compo for a shortened period over the weekend, but never the less landed 277th place overall of 1582 ranked entries</description>
+    </item>
+    <item>
+      <title>Matrix Command Effect</title>
+      <link>http://localhost:1313/projects/matrix_command_effect/</link>
+      <pubDate>Thu, 04 Apr 2024 12:34:26 -0400</pubDate>
+      <guid>http://localhost:1313/projects/matrix_command_effect/</guid>
+      <description>I created a program that visualized a version of the falling characters effect from the Matrix Movies for a background effect and to generate CMD command outputs.&#xA;Program Release Available on Github https://github.com/erikhugofrenes/Matrix-Command-Effect&#xA;Video Demonstration and Tutorial https://www.youtube.com/watch?v=yhf1i6HHOAg</description>
     </item>
     <item>
       <title>Work Experience</title>
-      <link>https://erikhugofrenes.com/posts/my_work_experience/</link>
+      <link>http://localhost:1313/posts/my_work_experience/</link>
       <pubDate>Thu, 04 Apr 2024 12:34:26 -0400</pubDate>
-      <guid>https://erikhugofrenes.com/posts/my_work_experience/</guid>
+      <guid>http://localhost:1313/posts/my_work_experience/</guid>
       <description>Summer 2021&#xA;In 2021, I lent my help to Nordpan Rubner Holzbauelemente, a South Tyrolean premium-quality solid wood panel producer, as a forester planting year-old saplings on the steep slopes in the Alps where Nordpan Rubner Holzbauelemente sources much of its wood. This experience taught me endurance, precision, and methodology in task completion for a company.&#xA;Summer 2022/Summer 2023&#xA;I worked as a sailing instructor at Tod&amp;rsquo;s Point Sailing School one of the leading summer sailing camps in Fairfield, Connecticut, USA.</description>
     </item>
     <item>
       <title>Who am I?</title>
-      <link>https://erikhugofrenes.com/posts/who_am_i/</link>
+      <link>http://localhost:1313/posts/who_am_i/</link>
       <pubDate>Wed, 03 Apr 2024 23:34:26 -0400</pubDate>
-      <guid>https://erikhugofrenes.com/posts/who_am_i/</guid>
+      <guid>http://localhost:1313/posts/who_am_i/</guid>
       <description>I&amp;rsquo;m a University Student passionate about programming projects that provide value universally and enrich society.</description>
     </item>
   </channel>
